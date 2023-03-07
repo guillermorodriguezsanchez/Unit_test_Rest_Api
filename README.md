@@ -2,8 +2,8 @@
 
 This project is a REST API with unit tests implemented using Supertest. The API is built with NodeJS and Express, and it interacts with a MongoDB database.
 ## Requirements
-NodeJS
-MongoDB
+- NodeJS
+- MongoDB
 ## Getting Started
 - Clone the repository
 - Install dependencies with npm install
@@ -25,8 +25,8 @@ The unit tests are implemented using Supertest and can be found in the test dire
 
 ### Here are the scripts available in the project:
 
-serve: Starts the development server with nodemon and automatically reloads the server when changes are detected
-start: Starts the production server using node
-test: Runs the Jest test suite
-lint: Lints the entire project using ESLint
-format: Formats the codebase using Prettier to ensure consistent code style.
+- serve: Starts the development server with nodemon and automatically reloads the server when changes are detected
+- start: Starts the production server using node
+- test: Runs the Jest test suite
+- lint: Lints the entire project using ESLint
+- format: Formats the codebase using Prettier to ensure consistent code style.
